@@ -12,3 +12,4 @@ C:\C#\exercicio01\obj\Debug\net8.0\refint\exercicio01.dll
 C:\C#\exercicio01\obj\Debug\net8.0\exercicio01.pdb
 C:\C#\exercicio01\obj\Debug\net8.0\exercicio01.genruntimeconfig.cache
 C:\C#\exercicio01\obj\Debug\net8.0\ref\exercicio01.dll
+C:\C#\exercicio01\obj\Debug\net8.0\exercicio01.sourcelink.json
