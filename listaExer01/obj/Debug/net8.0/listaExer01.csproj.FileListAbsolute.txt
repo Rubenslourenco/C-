@@ -1,0 +1,15 @@
+C:\C#\listaExer01\obj\Debug\net8.0\listaExer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\listaExer01\obj\Debug\net8.0\listaExer01.AssemblyInfoInputs.cache
+C:\C#\listaExer01\obj\Debug\net8.0\listaExer01.AssemblyInfo.cs
+C:\C#\listaExer01\obj\Debug\net8.0\listaExer01.csproj.CoreCompileInputs.cache
+C:\C#\listaExer01\obj\Debug\net8.0\listaExer01.sourcelink.json
+C:\C#\listaExer01\bin\Debug\net8.0\listaExer01.exe
+C:\C#\listaExer01\bin\Debug\net8.0\listaExer01.deps.json
+C:\C#\listaExer01\bin\Debug\net8.0\listaExer01.runtimeconfig.json
+C:\C#\listaExer01\bin\Debug\net8.0\listaExer01.dll
+C:\C#\listaExer01\bin\Debug\net8.0\listaExer01.pdb
+C:\C#\listaExer01\obj\Debug\net8.0\listaExer01.dll
+C:\C#\listaExer01\obj\Debug\net8.0\refint\listaExer01.dll
+C:\C#\listaExer01\obj\Debug\net8.0\listaExer01.pdb
+C:\C#\listaExer01\obj\Debug\net8.0\listaExer01.genruntimeconfig.cache
+C:\C#\listaExer01\obj\Debug\net8.0\ref\listaExer01.dll
