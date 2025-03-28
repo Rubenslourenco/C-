@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projetoEnum01/1.0.0": {
+        "runtime": {
+          "projetoEnum01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projetoEnum01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

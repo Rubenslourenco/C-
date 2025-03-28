@@ -1,0 +1,15 @@
+C:\C#\projetoEnum01\obj\Debug\net8.0\projetoEnum01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\projetoEnum01\obj\Debug\net8.0\projetoEnum01.AssemblyInfoInputs.cache
+C:\C#\projetoEnum01\obj\Debug\net8.0\projetoEnum01.AssemblyInfo.cs
+C:\C#\projetoEnum01\obj\Debug\net8.0\projetoEnum01.csproj.CoreCompileInputs.cache
+C:\C#\projetoEnum01\obj\Debug\net8.0\projetoEnum01.sourcelink.json
+C:\C#\projetoEnum01\bin\Debug\net8.0\projetoEnum01.exe
+C:\C#\projetoEnum01\bin\Debug\net8.0\projetoEnum01.deps.json
+C:\C#\projetoEnum01\bin\Debug\net8.0\projetoEnum01.runtimeconfig.json
+C:\C#\projetoEnum01\bin\Debug\net8.0\projetoEnum01.dll
+C:\C#\projetoEnum01\bin\Debug\net8.0\projetoEnum01.pdb
+C:\C#\projetoEnum01\obj\Debug\net8.0\projetoEnum01.dll
+C:\C#\projetoEnum01\obj\Debug\net8.0\refint\projetoEnum01.dll
+C:\C#\projetoEnum01\obj\Debug\net8.0\projetoEnum01.pdb
+C:\C#\projetoEnum01\obj\Debug\net8.0\projetoEnum01.genruntimeconfig.cache
+C:\C#\projetoEnum01\obj\Debug\net8.0\ref\projetoEnum01.dll
