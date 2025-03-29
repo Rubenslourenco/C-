@@ -46,7 +46,7 @@ namespace projetoWork01
             int year = int.Parse(monthAndYear.Substring(3));
             System.Console.WriteLine("Name: " + worker.Name);
             System.Console.WriteLine("Department: " + worker.Department.Name);
-            System.Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year, month));
+            System.Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year, month).ToSring("F2", CultureInfo.InvariantCulture));
 
 
         }
