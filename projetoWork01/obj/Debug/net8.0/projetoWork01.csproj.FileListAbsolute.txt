@@ -1,0 +1,15 @@
+C:\C#\projetoWork01\obj\Debug\net8.0\projetoWork01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\projetoWork01\obj\Debug\net8.0\projetoWork01.AssemblyInfoInputs.cache
+C:\C#\projetoWork01\obj\Debug\net8.0\projetoWork01.AssemblyInfo.cs
+C:\C#\projetoWork01\obj\Debug\net8.0\projetoWork01.csproj.CoreCompileInputs.cache
+C:\C#\projetoWork01\obj\Debug\net8.0\projetoWork01.sourcelink.json
+C:\C#\projetoWork01\bin\Debug\net8.0\projetoWork01.exe
+C:\C#\projetoWork01\bin\Debug\net8.0\projetoWork01.deps.json
+C:\C#\projetoWork01\bin\Debug\net8.0\projetoWork01.runtimeconfig.json
+C:\C#\projetoWork01\bin\Debug\net8.0\projetoWork01.dll
+C:\C#\projetoWork01\bin\Debug\net8.0\projetoWork01.pdb
+C:\C#\projetoWork01\obj\Debug\net8.0\projetoWork01.dll
+C:\C#\projetoWork01\obj\Debug\net8.0\refint\projetoWork01.dll
+C:\C#\projetoWork01\obj\Debug\net8.0\projetoWork01.pdb
+C:\C#\projetoWork01\obj\Debug\net8.0\projetoWork01.genruntimeconfig.cache
+C:\C#\projetoWork01\obj\Debug\net8.0\ref\projetoWork01.dll
