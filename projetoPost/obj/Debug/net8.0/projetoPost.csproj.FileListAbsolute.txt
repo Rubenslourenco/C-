@@ -1,0 +1,15 @@
+C:\C#\projetoPost\obj\Debug\net8.0\projetoPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\projetoPost\obj\Debug\net8.0\projetoPost.AssemblyInfoInputs.cache
+C:\C#\projetoPost\obj\Debug\net8.0\projetoPost.AssemblyInfo.cs
+C:\C#\projetoPost\obj\Debug\net8.0\projetoPost.csproj.CoreCompileInputs.cache
+C:\C#\projetoPost\obj\Debug\net8.0\projetoPost.sourcelink.json
+C:\C#\projetoPost\bin\Debug\net8.0\projetoPost.exe
+C:\C#\projetoPost\bin\Debug\net8.0\projetoPost.deps.json
+C:\C#\projetoPost\bin\Debug\net8.0\projetoPost.runtimeconfig.json
+C:\C#\projetoPost\bin\Debug\net8.0\projetoPost.dll
+C:\C#\projetoPost\bin\Debug\net8.0\projetoPost.pdb
+C:\C#\projetoPost\obj\Debug\net8.0\projetoPost.dll
+C:\C#\projetoPost\obj\Debug\net8.0\refint\projetoPost.dll
+C:\C#\projetoPost\obj\Debug\net8.0\projetoPost.pdb
+C:\C#\projetoPost\obj\Debug\net8.0\projetoPost.genruntimeconfig.cache
+C:\C#\projetoPost\obj\Debug\net8.0\ref\projetoPost.dll
