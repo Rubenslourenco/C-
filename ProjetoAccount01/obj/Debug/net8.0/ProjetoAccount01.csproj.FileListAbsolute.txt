@@ -1,0 +1,15 @@
+C:\C#\ProjetoAccount01\obj\Debug\net8.0\ProjetoAccount01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ProjetoAccount01\obj\Debug\net8.0\ProjetoAccount01.AssemblyInfoInputs.cache
+C:\C#\ProjetoAccount01\obj\Debug\net8.0\ProjetoAccount01.AssemblyInfo.cs
+C:\C#\ProjetoAccount01\obj\Debug\net8.0\ProjetoAccount01.csproj.CoreCompileInputs.cache
+C:\C#\ProjetoAccount01\obj\Debug\net8.0\ProjetoAccount01.sourcelink.json
+C:\C#\ProjetoAccount01\bin\Debug\net8.0\ProjetoAccount01.exe
+C:\C#\ProjetoAccount01\bin\Debug\net8.0\ProjetoAccount01.deps.json
+C:\C#\ProjetoAccount01\bin\Debug\net8.0\ProjetoAccount01.runtimeconfig.json
+C:\C#\ProjetoAccount01\bin\Debug\net8.0\ProjetoAccount01.dll
+C:\C#\ProjetoAccount01\bin\Debug\net8.0\ProjetoAccount01.pdb
+C:\C#\ProjetoAccount01\obj\Debug\net8.0\ProjetoAccount01.dll
+C:\C#\ProjetoAccount01\obj\Debug\net8.0\refint\ProjetoAccount01.dll
+C:\C#\ProjetoAccount01\obj\Debug\net8.0\ProjetoAccount01.pdb
+C:\C#\ProjetoAccount01\obj\Debug\net8.0\ProjetoAccount01.genruntimeconfig.cache
+C:\C#\ProjetoAccount01\obj\Debug\net8.0\ref\ProjetoAccount01.dll
