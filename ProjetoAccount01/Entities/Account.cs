@@ -22,7 +22,7 @@ namespace ProjetoAccount01.Entities
 
         public void Withdraw(double amount)
         {
-            Balance -= amount;
+            Balance -= amount + 5;
         }
 
         public void Deposit(double amount)

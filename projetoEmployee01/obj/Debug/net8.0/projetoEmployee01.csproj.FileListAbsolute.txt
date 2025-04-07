@@ -1,0 +1,15 @@
+C:\C#\projetoEmployee01\obj\Debug\net8.0\projetoEmployee01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\projetoEmployee01\obj\Debug\net8.0\projetoEmployee01.AssemblyInfoInputs.cache
+C:\C#\projetoEmployee01\obj\Debug\net8.0\projetoEmployee01.AssemblyInfo.cs
+C:\C#\projetoEmployee01\obj\Debug\net8.0\projetoEmployee01.csproj.CoreCompileInputs.cache
+C:\C#\projetoEmployee01\obj\Debug\net8.0\projetoEmployee01.sourcelink.json
+C:\C#\projetoEmployee01\bin\Debug\net8.0\projetoEmployee01.exe
+C:\C#\projetoEmployee01\bin\Debug\net8.0\projetoEmployee01.deps.json
+C:\C#\projetoEmployee01\bin\Debug\net8.0\projetoEmployee01.runtimeconfig.json
+C:\C#\projetoEmployee01\bin\Debug\net8.0\projetoEmployee01.dll
+C:\C#\projetoEmployee01\bin\Debug\net8.0\projetoEmployee01.pdb
+C:\C#\projetoEmployee01\obj\Debug\net8.0\projetoEmployee01.dll
+C:\C#\projetoEmployee01\obj\Debug\net8.0\refint\projetoEmployee01.dll
+C:\C#\projetoEmployee01\obj\Debug\net8.0\projetoEmployee01.pdb
+C:\C#\projetoEmployee01\obj\Debug\net8.0\projetoEmployee01.genruntimeconfig.cache
+C:\C#\projetoEmployee01\obj\Debug\net8.0\ref\projetoEmployee01.dll
