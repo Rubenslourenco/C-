@@ -1,0 +1,15 @@
+C:\C#\projetoProduto\obj\Debug\net8.0\projetoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\projetoProduto\obj\Debug\net8.0\projetoProduto.AssemblyInfoInputs.cache
+C:\C#\projetoProduto\obj\Debug\net8.0\projetoProduto.AssemblyInfo.cs
+C:\C#\projetoProduto\obj\Debug\net8.0\projetoProduto.csproj.CoreCompileInputs.cache
+C:\C#\projetoProduto\obj\Debug\net8.0\projetoProduto.sourcelink.json
+C:\C#\projetoProduto\bin\Debug\net8.0\projetoProduto.exe
+C:\C#\projetoProduto\bin\Debug\net8.0\projetoProduto.deps.json
+C:\C#\projetoProduto\bin\Debug\net8.0\projetoProduto.runtimeconfig.json
+C:\C#\projetoProduto\bin\Debug\net8.0\projetoProduto.dll
+C:\C#\projetoProduto\bin\Debug\net8.0\projetoProduto.pdb
+C:\C#\projetoProduto\obj\Debug\net8.0\projetoProduto.dll
+C:\C#\projetoProduto\obj\Debug\net8.0\refint\projetoProduto.dll
+C:\C#\projetoProduto\obj\Debug\net8.0\projetoProduto.pdb
+C:\C#\projetoProduto\obj\Debug\net8.0\projetoProduto.genruntimeconfig.cache
+C:\C#\projetoProduto\obj\Debug\net8.0\ref\projetoProduto.dll
