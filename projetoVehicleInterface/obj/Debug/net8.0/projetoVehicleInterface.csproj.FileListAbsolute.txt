@@ -1,0 +1,15 @@
+C:\C#\projetoVehicleInterface\obj\Debug\net8.0\projetoVehicleInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\projetoVehicleInterface\obj\Debug\net8.0\projetoVehicleInterface.AssemblyInfoInputs.cache
+C:\C#\projetoVehicleInterface\obj\Debug\net8.0\projetoVehicleInterface.AssemblyInfo.cs
+C:\C#\projetoVehicleInterface\obj\Debug\net8.0\projetoVehicleInterface.csproj.CoreCompileInputs.cache
+C:\C#\projetoVehicleInterface\obj\Debug\net8.0\projetoVehicleInterface.sourcelink.json
+C:\C#\projetoVehicleInterface\bin\Debug\net8.0\projetoVehicleInterface.exe
+C:\C#\projetoVehicleInterface\bin\Debug\net8.0\projetoVehicleInterface.deps.json
+C:\C#\projetoVehicleInterface\bin\Debug\net8.0\projetoVehicleInterface.runtimeconfig.json
+C:\C#\projetoVehicleInterface\bin\Debug\net8.0\projetoVehicleInterface.dll
+C:\C#\projetoVehicleInterface\bin\Debug\net8.0\projetoVehicleInterface.pdb
+C:\C#\projetoVehicleInterface\obj\Debug\net8.0\projetoVehicleInterface.dll
+C:\C#\projetoVehicleInterface\obj\Debug\net8.0\refint\projetoVehicleInterface.dll
+C:\C#\projetoVehicleInterface\obj\Debug\net8.0\projetoVehicleInterface.pdb
+C:\C#\projetoVehicleInterface\obj\Debug\net8.0\projetoVehicleInterface.genruntimeconfig.cache
+C:\C#\projetoVehicleInterface\obj\Debug\net8.0\ref\projetoVehicleInterface.dll
