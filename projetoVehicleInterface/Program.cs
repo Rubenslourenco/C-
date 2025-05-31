@@ -10,7 +10,7 @@ namespace Course
         static void Main(string[] agrs)
         {
             System.Console.WriteLine("Enter Rental data:");
-            System.Console.Write("Car model:");
+            System.Console.Write("Car model: ");
             string model = Console.ReadLine();
             System.Console.Write("Pickup (dd/MM/yyyy hh:mm):");
             DateTime start = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
@@ -24,7 +24,7 @@ namespace Course
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
 
-            RentalService rentalservice = new RentalService(hour, day);
+            RentalService rentalservice = new RentalService(hour, day, new BrazilTaxService());
 
             rentalservice.ProcessInvoice(carRental);
 
